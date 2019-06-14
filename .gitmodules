@@ -1,0 +1,3 @@
+[submodule "YoloKerasFaceDetection"]
+	path = YoloKerasFaceDetection
+	url = https://github.com/abars/YoloKerasFaceDetection
